@@ -4,6 +4,8 @@ To simulate variable voltage regulator using 3 terminal voltage regulator IC and
 ## Apparatus required:
 PC with LT Spice Software
 ## Circuit Diagram:
+<img width="1024" height="464" alt="image" src="https://github.com/user-attachments/assets/e1fddca5-b786-4736-b812-b0fbe3d4c9de" />
+
 
 ## Simulation Procedure:
 1.	Open the Ltspice software
@@ -39,5 +41,9 @@ PC with LT Spice Software
 16.	To get the voltage across a component the name of the trace should represent both the nodes. example V(n001,n002))
 
 ## Output:
+<img width="872" height="598" alt="image" src="https://github.com/user-attachments/assets/fd7308b7-cc54-4ddc-870b-7d30a03d43b9" />
+<img width="871" height="734" alt="image" src="https://github.com/user-attachments/assets/fe78c841-59a1-4bd2-9a8c-3d6752d8b6b5" />
+
+
 
 ## Result:
